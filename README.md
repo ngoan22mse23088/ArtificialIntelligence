@@ -1,10 +1,15 @@
-# ArtificialIntelligence
-Artificial Intelligence - Dr.Phan Duy Hung
+# Artificial Intelligence - Dr.Phan Duy Hung
 
 FPT SCHOOL OF BUSINESS (FSB HO CHI MNH) - FPT UNIVERSITY </br>
+
 CLASS: MSE12#HCM </br>
+
 SUBJECT: ARTIFICIAL INTELLIGENCE (MOOC AIN501) </br>
+
 MSHV: 22MSE23088 </br>
+
 STUDENT's NAME: LE CHI NGOAN </br>
+
 INSTRUCTOR: DR.PHAM DUY HUNG </br>
-Final Assigment
+
+Final Assignment
